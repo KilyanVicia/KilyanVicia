@@ -8,17 +8,10 @@
 
 ## 🛡️ Cybersécurité
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![Root-Me](https://img.shields.io/badge/Root--Me-black?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-555?style=flat)
+- 🟥 **TryHackMe** — Pentest, réseau, Linux
+- 🟧 **Root-Me** — Challenges réseau & web
 
-## 🌐 Réseaux
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-blue?style=flat)
-![VLAN](https://img.shields.io/badge/VLAN-blue?style=flat)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-black?style=flat)
+---
 
 ## 💻 Développement & Systèmes
 
@@ -35,17 +28,10 @@
 
 | Projet | Description | Technologies |
 |--------|-------------|-------------|
-| [💧 Consdeau](https://github.com/KilyanVicia/Projets-Consommation-deau) | Système IoT de surveillance de consommation d'eau | C++, QML, Qt, WebSocket, MySQL |
-| [🦁 Zooparc Thoiry](https://github.com/KilyanVicia/Zooparc-Thoiry) | Site web dynamique de gestion d'un zoo | PHP, MySQL, HTML/CSS, JS |
-| [🃏 Jeu Memory](https://github.com/KilyanVicia/Jeu-Memory) | Jeu de memory avec système de score et combos | JavaScript vanilla |
-| [🍪 Cookie Clicker](https://github.com/KilyanVicia/Cookie-Clicker) | Jeu idle/clicker avec boutique d'améliorations | JavaScript vanilla |
-
----
-
-## 📊 Plateformes pratique
-
-- 🟥 **TryHackMe** — Pentest, réseau, Linux
-- 🟧 **Root-Me** — Challenges réseau & web
+| [💧 Consdeau](https://github.com/KilyanVicia/Projets-Consommation-deau) | Système IoT de surveillance de consommation d'eau (projet BTS) | C++, QML, Qt, WebSocket, MySQL |
+| [🦁 Zooparc Thoiry](https://github.com/KilyanVicia/Zooparc-Thoiry) | Site web dynamique de gestion d'un zoo (Première année de BTS)| PHP, MySQL, HTML/CSS, JS |
+| [🃏 Jeu Memory](https://github.com/KilyanVicia/Jeu-Memory) | Jeu de memory avec système de score et combos (Première année de BTS) | JavaScript vanilla |
+| [🍪 Cookie Clicker](https://github.com/KilyanVicia/Cookie-Clicker) | Jeu idle/clicker avec boutique d'améliorations (Jeu perso) | JavaScript vanilla |
 
 ---
 
